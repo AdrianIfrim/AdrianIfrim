@@ -2,10 +2,10 @@
 
 Concept Art Student
 
-##Softwares
+## Softwares
 
 - CSP
 - PS
 - Blender
 
-(Portfolio)(https://adrianifrim2.artstation.com/)
+[Portfolio](https://adrianifrim2.artstation.com/)
